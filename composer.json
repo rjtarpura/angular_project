@@ -1,0 +1,11 @@
+{
+    "name": "zoop/crm",
+    "description": "CRM project",
+    "authors": [
+        {
+            "name": "Rakesh Jangir",
+            "email": "rakeshjangir.ehs@gmail.com"
+        }
+    ],
+    "require": {}
+}
